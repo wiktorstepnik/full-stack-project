@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "username": "jan_kowalski",
+    "email": "jan.kowalski@example.com",
+    "age": 28,
+    "isActive": true,
+    "roles": ["user", "admin"]
+  },
+  {
+    "id": 2,
+    "username": "anna_nowak",
+    "email": "anna.nowak@example.com",
+    "age": 34,
+    "isActive": false,
+    "roles": ["user"]
+  },
+  {
+    "id": 3,
+    "username": "michal_wozniak",
+    "email": "michal.wozniak@example.com",
+    "age": 22,
+    "isActive": true,
+    "roles": ["user", "moderator"]
+  },
+  {
+    "id": 4,
+    "username": "ewa_zielinska",
+    "email": "ewa.zielinska@example.com",
+    "age": 41,
+    "isActive": true,
+    "roles": ["user"]
+  }
+]
